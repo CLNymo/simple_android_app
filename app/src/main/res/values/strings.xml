@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">cassandn_oblig1</string>
+    <string name="textView1">Sjekk om navnet ditt er et palindrom!</string>
+    <string name="buttonCheckP">Sjekk!</string>
+    <string name="editText1">Navn:</string>
+    <string name="buttonNext">Neste ></string>
+    <string name="textView2"> </string>
+    <string name="converterText">Nå skal vi konvertere imperiske enheter til funksjonelle enheter</string>
+    <string name="palindromeTrue">Navnet ditt er et palindrom! :)</string>
+    <string name="palindromeFalse">Navnet ditt er ikke et palindrom :(</string>
+    <string name="buttonConvert">konverter</string>
+    <string name="numberC">antall</string>
+    <string name="toastConverterError">Ey, du må skrive inn en verdi!</string>
+    <string name="quizText">Nå skal du avgjøre om hver av disse 5 påstandene om meg er fleip eller fakta:</string>
+    <string name="buttonResetQuiz"><![CDATA[<< Start quiz på nytt]]></string>
+    <string name="question"> </string>
+    <string name="buttonTrue">Fakta</string>
+    <string name="buttonFalse">Fleip</string>
+    <string name="scoreText">Poeng: %s av 5</string>
+    <string name="scoreQuiz">Poeng: 0 av 5</string>
+    <string name="toastQuizDone">Quizzen er ferdig :)</string>
+
+    <string-array name="unit_array">
+        <item>fluid ounce</item>
+        <item>cup</item>
+        <item>gallon</item>
+        <item>hogshead</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>Jeg får en A i IN2000</item>
+        <item>Jeg er mammas favorittbarn</item>
+        <item>Jeg er (født i) jomfru</item>
+        <item>Brukernavnet mitt på chess.com er leodeoceo, og du skal adde meg</item>
+        <item>Jeg er kul</item>
+    </string-array>
+    <string-array name="answers">
+        <item>T</item>
+        <item>T</item>
+        <item>F</item>
+        <item>T</item>
+        <item>F</item>
+    </string-array>
+
+</resources>
